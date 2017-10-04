@@ -1,4 +1,4 @@
-package autotest;
+package com.autotest;
 
 public class Helloword {
 
